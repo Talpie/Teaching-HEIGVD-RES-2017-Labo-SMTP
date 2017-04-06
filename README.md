@@ -10,7 +10,7 @@ This project done inside the HEIG-VD's course RES is a java client which purpose
 ### Data edit
 * List of victims and messages can be edited in the folder RES_SMTPPRANK\src\data
 * each victims must be separated by a new line
-* each message is composed of a subject, an empty line, a text and a point. Here's a small example :
+* each message is composed of a subject, an empty line, a text and a point. Here's a small example :<br/>
 Example
 
 This is an example
